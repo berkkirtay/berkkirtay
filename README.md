@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/berkkirtay" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-coopera-web-design-12.png" alt="berkkrty" height="30" width="30" /></a>
+<a href="https://berkkirtay.github.io/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-coopera-web-design-12.png" alt="berkkrty" height="30" width="30" /></a>
 <a href="mailto:berkkrty@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="berkkrty" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/berkkirtay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkkirtay" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/berkkirtay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="berkkirtay" height="30" width="40" /></a>
