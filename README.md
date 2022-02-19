@@ -11,13 +11,15 @@
 
 - 💬 Ask me about **Cryptography and software engineering**
 
-- 📫 How to reach me **berkkrty@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:berkkrty@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="berkkrty" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/berkkirtay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkkirtay" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/berkkirtay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="berkkirtay" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/berkkrty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="berkkrty" height="30" width="40" /></a>
 </p>
+
+
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkkirtay&show_icons=true&locale=en&layout=compact" alt="berkkirtay" /></p>
