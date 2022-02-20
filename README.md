@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berk Kırtay</h1>
-<h3 align="center">A passionate software engineer candidate</h3>
+<h3 align="center">A passionate computer science student</h3>
 
 - 🔭 I’m currently working on [berkcoin](https://github.com/berkkirtay/berkcoin)
 
