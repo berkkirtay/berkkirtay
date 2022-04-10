@@ -7,7 +7,6 @@
 
 - 📝 I write articles on [https://berkkirtay.github.io/blog](https://berkkirtay.github.io/blog)
 
-- 💬 Ask me about **cryptography and software engineering**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkkirtay&label=Profile%20views&color=0e75b6&style=flat" alt="berkkirtay" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
