@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berk Kırtay</h1>
 <h3 align="center">A passionate computer science student</h3>
 
-- 🔭 I’m currently working on [berkcoin](https://github.com/berkkirtay/berkcoin)
+- 🔭 I’m currently working on Evolutionary algorithms.
 
 - 👨‍💻 My projects are available at [GitHub](https://github.com/berkkirtay?tab=repositories)
 
